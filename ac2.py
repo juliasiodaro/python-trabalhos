@@ -2,7 +2,7 @@
 AC 2
 
 """
-# revisitando o exercicio 1
+# revisitando a AC 1 exercicio 1
 
 # ** 0,5
 
